@@ -1,15 +1,17 @@
-# npm link file
+# Module Link
+
+Link a file to a module.
 
 ### Install
 
 ```
-npm install npm-link-file --save-dev
+npm install module-link --save-dev
 ```
 
 ## Usage
 
 ```
-npm-link-file ./lib/path/file.js file-library
+module-link ./lib/path/file.js file-library
 ```
 
 ### How

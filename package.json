@@ -1,5 +1,5 @@
 {
-  "name": "npm-link-file",
+  "name": "module-link",
   "version": "0.0.0",
   "description": "Link a file to node_modules",
   "bin": "index.js",
